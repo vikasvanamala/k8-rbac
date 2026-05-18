@@ -18,5 +18,5 @@ rules:
   resources: ["storageclasses"]
   verbs: ["get", "watch", "list"]
 - apiGroups: [""]
-  resources: ["persistantvolumes"]
+  resources: ["persistentvolumes"]
   verbs: ["get", "watch", "list"]
