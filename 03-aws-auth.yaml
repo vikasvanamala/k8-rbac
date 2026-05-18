@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - roboshop-trainee
-      userarn: arn:aws:iam::215446237872:user/vikcy
+      userarn: arn:aws:iam::215446237872:user/vicky
       username: vicky
 kind: ConfigMap
 metadata:
